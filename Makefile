@@ -1,7 +1,3 @@
-#------------------------------------------------------------------------------
-# Makefile for any C program
-#------------------------------------------------------------------------------
-
 PROGRAM_NAME = ArithmeticOperations
 FLAGS        = -std=c99 -Wall
 SOURCE       = $(PROGRAM_NAME).c
